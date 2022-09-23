@@ -1,8 +1,3 @@
-pip install streamlit
-pip install altair
-pip install pandas
-pip install plotly
-
 import streamlit as st
 import altair as alt
 import pandas as pd
