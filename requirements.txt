@@ -1,4 +1,4 @@
-plotply
+plotly
 streamlit
 altair
 pandas
