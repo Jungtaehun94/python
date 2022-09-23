@@ -1,0 +1,4 @@
+plotply
+streamlit
+altair
+pandas
